@@ -1,1 +1,2 @@
 Version 1.0
+Hotfix applied to 1.56
